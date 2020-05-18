@@ -1,0 +1,20 @@
+D:\Projeler\Visual Studio 2013\Yurt Otomasyonu\Yurt Otomasyonu\bin\Debug\Yurt Otomasyonu.exe.config
+D:\Projeler\Visual Studio 2013\Yurt Otomasyonu\Yurt Otomasyonu\bin\Debug\Yurt Otomasyonu.exe
+D:\Projeler\Visual Studio 2013\Yurt Otomasyonu\Yurt Otomasyonu\bin\Debug\Yurt Otomasyonu.pdb
+D:\Projeler\Visual Studio 2013\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.csprojResolveAssemblyReference.cache
+D:\Projeler\Visual Studio 2013\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Form1.resources
+D:\Projeler\Visual Studio 2013\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Properties.Resources.resources
+D:\Projeler\Visual Studio 2013\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.csproj.GenerateResource.Cache
+D:\Projeler\Visual Studio 2013\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.exe
+D:\Projeler\Visual Studio 2013\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.pdb
+D:\Projeler\Visual Studio 2013\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.personelgirisi.resources
+D:\Projeler\Visual Studio 2013\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.yoneticikayit.resources
+D:\Projeler\Visual Studio 2013\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.ogrencikayit.resources
+D:\Projeler\Visual Studio 2013\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.yoneticiekrani.resources
+D:\Projeler\Visual Studio 2013\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.personelekrani.resources
+D:\Projeler\Visual Studio 2013\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.izinformu.resources
+D:\Projeler\Visual Studio 2013\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.personelguncelle.resources
+D:\Projeler\Visual Studio 2013\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.ogrenciguncelle.resources
+D:\Projeler\Visual Studio 2013\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.İzin_Raporu.resources
+D:\Projeler\Visual Studio 2013\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.sifremiunuttum.resources
+D:\Projeler\Visual Studio 2013\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.yurtbilgileri.resources
